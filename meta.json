@@ -1,0 +1,26 @@
+{
+  "repo": "affinity-photo-pro",
+  "product": "Affinity Photo Pro",
+  "kind": "creative",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "photo-editing",
+  "topics": [
+    "affinity-photo-pro",
+    "affinity-desktop",
+    "affinity-windows",
+    "photo-editing",
+    "raw-processing",
+    "retouching-tools",
+    "color-correction",
+    "image-export",
+    "desktop-photo",
+    "windows-photo-editor",
+    "layer-editing",
+    "catalog-workflow",
+    "print-profiles"
+  ],
+  "site": "zentool.art"
+}
